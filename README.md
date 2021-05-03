@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joerg-Maurach
-- 👀 I’m interested in PHP, JS, HTML and mySQL
+- 👀 I’m interested in PHP, JS, HTML and MySQL
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
